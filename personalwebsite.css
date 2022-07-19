@@ -1,0 +1,39 @@
+.scroll
+{
+    scroll-behavior: smooth;
+}
+
+.header-section
+{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+#home
+{
+    padding-top: 7em;
+    padding-bottom: 2em;
+}
+
+.skills-heading
+{
+    color: darkcyan;
+}
+
+#project
+{
+    color: darkcyan;
+    text-decoration: none;
+}
+
+#fb-icon
+{
+    text-decoration: none;
+    color: white;
+}
+
+.iconallign
+{
+    margin-left: 0.6em;
+}
